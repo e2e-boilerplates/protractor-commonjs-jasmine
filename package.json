@@ -1,7 +1,7 @@
 {
   "name": "protractor-commonjs-jasmine",
   "version": "1.0.0",
-  "description": "Protractor end-to-end test automation boilerplate project. Using: commonjs & jasmine",
+  "description": "Protractor end-to-end test automation boilerplate project. Using: commonjs and jasmine",
   "scripts": {
     "upadte-webderiver": "npx webdriver-manager update",
     "test": "npx protractor protractor.conf.js",
@@ -9,6 +9,8 @@
   },
   "keywords": [
     "protractor",
+    "commonjs",
+    "jasmine",
     "boilerplate",
     "example"
   ],

@@ -1,5 +1,6 @@
 # Protractor: (commonjs, jasmine)
-Protractor end-to-end test automation boilerplate project. Using: commonjs & jasmine
+
+Protractor end-to-end test automation boilerplate project. Using: commonjs & jasmine.
 
 ## Getting Started
 
@@ -8,7 +9,3 @@ Protractor end-to-end test automation boilerplate project. Using: commonjs & jas
     npm install
     npm run upadte-webderiver
     npm run test
-
-To update webdriver to an older or newer version of Chrome browser
-    
-    npm run upadte-webderiver -- --chrome.version=77.0.3865.120
