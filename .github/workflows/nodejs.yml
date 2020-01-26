@@ -1,4 +1,4 @@
-name: protractor-commonjs-jasmine
+name: protractor-commonjs-jasmine-expect
 
 on: 
   push:
