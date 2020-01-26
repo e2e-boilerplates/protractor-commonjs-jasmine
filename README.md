@@ -1,8 +1,8 @@
-# Protractor: (commonjs, jasmine)
+# Protractor: (CommonJS, Jasmine and Expect)
 
 [![GitHub Actions status | e2e-boilerplates/protractor-commonjs-assert](https://github.com/e2e-boilerplates/protractor-commonjs-jasmine-expect/workflows/protractor-commonjs-jasmine-expect/badge.svg)](https://github.com/e2e-boilerplates/protractor-commonjs-jasmine-expect/actions?workflow=protractor-commonjs-jasmine-expect)
 
-Protractor end-to-end test automation boilerplate. Using: Protractor, CommonJS, Jasmine and Expect.
+Protractor end-to-end test automation boilerplate, using: CommonJS, Jasmine and Expect.
 
 ## Getting Started
 
