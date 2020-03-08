@@ -1,1 +1,48 @@
-{"author":"Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)","bugs":{"url":"https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect/issues"},"description":"Protractor end-to-end test automation boilerplate. using Using Commonjs, Jasmine and Expect.","devDependencies":{"eslint":"6.8.0","eslint-config-airbnb-base":"14.0.0","eslint-config-prettier":"6.10.0","eslint-plugin-import":"2.20.1","eslint-plugin-prettier":"3.1.2","husky":"4.2.3","jasmine":"3.5.0","prettier":"1.19.1","pretty-quick":"2.0.1","protractor":"5.4.3"},"homepage":"https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect#readme","husky":{"hooks":{"pre-commit":"pretty-quick --staged"}},"keywords":["boilerplate","commonjs","e2e","e2e tests","example","expect","integration test","jasmine","protractor"],"license":"MIT","name":"protractor-commonjs-jasmine-expect","repository":{"type":"git","url":"git+https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect.git"},"scripts":{"lint":"npx eslint --ext .js ./ --fix","test":"npx protractor","update-webdriver":"npx webdriver-manager update"},"version":"1.0.0"}
+{
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "bugs": {
+    "url": "https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect/issues"
+  },
+  "description": "Protractor end-to-end test automation boilerplate. Using Using Commonjs, Jasmine and Expect.",
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-prettier": "3.1.2",
+    "husky": "4.2.3",
+    "jasmine": "3.5.0",
+    "prettier": "1.19.1",
+    "pretty-quick": "2.0.1",
+    "protractor": "5.4.3"
+  },
+  "homepage": "https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "keywords": [
+    "boilerplate",
+    "commonjs",
+    "e2e",
+    "e2e tests",
+    "example",
+    "expect",
+    "integration test",
+    "jasmine",
+    "protractor"
+  ],
+  "license": "MIT",
+  "name": "protractor-commonjs-jasmine-expect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2e-boilerplate/protractor-commonjs-jasmine-expect.git"
+  },
+  "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx protractor",
+    "update-webdriver": "npx webdriver-manager update"
+  },
+  "version": "1.0.0"
+}
